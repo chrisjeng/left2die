@@ -8,7 +8,7 @@ TODO
 
 ## Important Event Times
 
-| (Survival Time) 	| (Description of event) 	|
+| Survival Time 	| Description of event 	|
 |---	|---	|
 | 8:20 | Hunterlings appear behind the mineral line. |
 | 10:47 | Enemy breakthrough on north side. |
