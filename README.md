@@ -1,6 +1,8 @@
-# Left 2 Die, Arcade Game in Starcraft II
+# Left 2 Die, Arcade Game in StarCraft II
 
 ## Prologue
+
+Left 2 Die is an Arcade Mini-game, made by Blizzard, in StarCraft II (also made by Blizzard). A typical game takes around 5 mins if you suck, or up to an hour if you kick ass as a duo. Playing solo, if you're great, you'll probably last no longer than ~30 mins.
 
 TODO
 
