@@ -10,15 +10,15 @@ You can find this game by going to the `ARCADE` tab, and searching for "Left 2 D
 
 ### Solo
 
-*	Capped at 200 supply.
-*	You start with control of both bases.
-*	You can handle all biomass.
+*	Supply cap is 200 supply.
+*	Two command centers: you control both.
+*	You alone accumulate and spend biomass.
 
 ### Duo
 
-*	Each person is capped at 200 supply, so in total you could have 400 supply.
-*	The person who create the room will be in control of the southeast base. The second player will control the southwest base.
-*	Each individual player will accumulate biomass at half the speed of solo. Resource trading is enabled later in the game (15 mins?).
+*	Supply cap is 200 supply for each individual (so in total, the two of you combined can have `200+200=400`).
+*	Two command centers: each player controls one. The user who created the room will be in control of the southeast base. The second player will control the southwest base.
+*	Both players accumulate biomass (generally distributed evenly). Resource trading is enabled later in the game (probably at around ~15 mins?).
 
 ## Important Event Times
 
