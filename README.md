@@ -26,6 +26,7 @@ Here is an exhaustive list of all notable events for the first 25 mins. If you a
 
 | Survival Time 	| Description of event 	|
 |---	|---	|
+| 4:07 | (2p) You should have enough to buy Omnisteel Bunkers for 50 biomass. |
 | 8:20 | Hunterlings appear behind the mineral line. You'll need some form of defense (some units or a planetary fortress, ideally both) |
 | 10:47 | Enemy breaks through the obstructive terrain on north side. You'll want to have setup defense for this already. |
 | 11:33 | Spotters appear behind the mineral line. Build missle turrets at every chokepoint and behind your mineral line. You shouldn't need to spend valuable supply on this, because missle turrets cost minerals (which is sustainable, unlike gas) to build and repair. |
